@@ -1,0 +1,6 @@
+Step1.Run the file with name : "Image_To_RawText"
+Step2. Wait for the processsing until all the text files are created and code is completely executed
+Step3. Run the file with name: "Blanlines_Removed"
+Step4.Run the file with name:"Division_to_TwoFiles"
+Step5.Run the file with name:"dictionery_to_Excel"
+Step5.Run the file with name:"ErrorCalculation"

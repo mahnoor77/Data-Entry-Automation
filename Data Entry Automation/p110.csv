@@ -1,0 +1,17 @@
+Patient Name,  SHANAWAR ABBAS.
+Patient Age,  6 (Y)
+Date, 01-Apr-2021
+Patient Contact, 03006052674
+TEST NAME,REFERENCE RANGE,UNIT,RESULT
+Hb, 11.5-14.5, g/dl,9.5
+Total RBC, 4-5.3,x10^12/I,3.2
+HCT,33-43, %,28
+MCV,76-90, fl,87
+MCH,25-31, pg,30
+MCHC,30-35, g/dl,34
+Platelet Count,150-400,x10^9/I,35
+WBC Count, 4-12,x10^9/I,2.5
+Neutrophils,13-50, %,10
+Lymphocytes,46-55, %,86
+Monocytes, Less Than 05, %,02
+Eosinophils , Less Than 03, %,02
